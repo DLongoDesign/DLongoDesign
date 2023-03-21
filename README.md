@@ -2,8 +2,8 @@
 ![I am Front End Software Engineer with Graphic Design Background](https://media.licdn.com/dms/image/D4D16AQH9lMK0nUStGw/profile-displaybackgroundimage-shrink_350_1400/0/1679002656592?e=1684972800&v=beta&t=h5LAEY_A83yqONW3fFRVtyILju4wUZO3Nn-_kUtjBws)
 # Hi there, I'm Daniele 👋 
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fdlongo.dev)](https://dlongo.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=dlongodev)
+[![Website](https://img.shields.io/website?label=dlongo.dev&style=for-the-badge&url=https%3A%2F%2Fdlongo.dev)](https://dlongo.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DLongoDev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdlongodev&screen_name=dlongodev)
 
 
 #### I am Front End Software Engineer with Graphic Design Background
