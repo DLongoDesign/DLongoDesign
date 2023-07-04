@@ -1,5 +1,6 @@
 
-![I am Front End Software Engineer with Graphic Design Background](https://media.licdn.com/dms/image/D4D16AQH9lMK0nUStGw/profile-displaybackgroundimage-shrink_350_1400/0/1679002656592?e=1684972800&v=beta&t=h5LAEY_A83yqONW3fFRVtyILju4wUZO3Nn-_kUtjBws)
+![I am Front End Software Engineer with Graphic Design Background](https://github.com/dlongodev/DLongoDev/assets/58197326/21def0cd-5270-4201-b5d9-1140c1c0e202)
+
 # Hi there, I'm Daniele 👋 
 
 [![Website](https://img.shields.io/website?label=dlongo.dev&style=for-the-badge&url=https%3A%2F%2Fdlongo.dev)](https://dlongo.dev)
